@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and debug
+*.log
+*.out
+*.err
+*.pid
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Output files
+reports/
+*.pdf
+*.md
+
+# Environment variables / secrets
+.env
+.env.*
+
+# pipenv files
+Pipfile.lock
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test/coverage artifacts
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Git files
+*.orig
